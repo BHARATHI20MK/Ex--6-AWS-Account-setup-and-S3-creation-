@@ -2,8 +2,8 @@
 
 # Ex--6-AWS-Account-setup-and-S3-creation
 ~~~
-Name : Shaik Azeez Ahamad
-reg.no : 212223110046
+Name : BHARATHI M K
+reg.no : 212223040026
 ~~~
 # Introduction
 
